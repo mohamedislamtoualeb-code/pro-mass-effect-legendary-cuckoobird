@@ -186,6 +186,6 @@ Use the button in the Quick Start section.
 
 ---
 
-*Mass Effect Legendary Edition · Updated 2026-11-20 · Shared under the MIT License*
+*Mass Effect Legendary Edition · Updated 2026-11-21 · Shared under the MIT License*
 
-<!-- rev 2026-11-20 -->
+<!-- rev 2026-11-21 -->
